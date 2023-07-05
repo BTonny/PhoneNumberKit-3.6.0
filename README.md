@@ -1,3 +1,10 @@
+This is just a clone from [https://github.com/marmelroy/PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) of [Release 3.6.0](https://github.com/marmelroy/PhoneNumberKit/releases/tag/3.6.0) to support [flutter_libphonenumber](https://pub.dev/packages/flutter_libphonenumber) package.
+
+In the iOS set up, use:  
+pod "PhoneNumberKit", :git => "https://github.com/BTonny/PhoneNumberKit-3.6.0"  
+instead of:  
+pod "PhoneNumberKit", :git => "https://github.com/marmelroy/PhoneNumberKit"  
+
 ![PhoneNumberKit](https://cloud.githubusercontent.com/assets/889949/20864386/a1307950-b9ef-11e6-8a58-e9c5103738e7.png)
 [![Platform](https://img.shields.io/cocoapods/p/PhoneNumberKit.svg?maxAge=2592000)](http://cocoapods.org/?q=PhoneNumberKit)
 [![Build Status](https://travis-ci.org/marmelroy/PhoneNumberKit.svg?branch=master)](https://travis-ci.org/marmelroy/PhoneNumberKit) [![Version](http://img.shields.io/cocoapods/v/PhoneNumberKit.svg)](http://cocoapods.org/?q=PhoneNumberKit)
